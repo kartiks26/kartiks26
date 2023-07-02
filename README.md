@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Meraki Frontend.
 - 🌱 I’m currently learning React native and WEB3
 - 👯 I’m looking to collaborate on React apps.
 - 🤔 I’m looking for help with Web 3 And Blockchain.
